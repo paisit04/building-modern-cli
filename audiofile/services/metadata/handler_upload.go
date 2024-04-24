@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/paisit04/building-modern-cli/extractors/tags"
-	"github.com/paisit04/building-modern-cli/extractors/transcript"
-	"github.com/paisit04/building-modern-cli/models"
+	"github.com/paisit04/building-modern-cli/audiofile/extractors/tags"
+	"github.com/paisit04/building-modern-cli/audiofile/extractors/transcript"
+	"github.com/paisit04/building-modern-cli/audiofile/models"
 )
 
 func (m *MetadataService) uploadHandler(res http.ResponseWriter, req *http.Request) {

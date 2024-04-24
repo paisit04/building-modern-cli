@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/paisit04/building-modern-cli/internal/interfaces"
+	"github.com/paisit04/building-modern-cli/audiofile/internal/interfaces"
 )
 
 func NewRandomCommand(client interfaces.Client) *RandomCommand {

@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/paisit04/building-modern-cli/internal/interfaces"
+	"github.com/paisit04/building-modern-cli/audiofile/internal/interfaces"
 )
 
 func NewGetCommand(client interfaces.Client) *GetCommand {

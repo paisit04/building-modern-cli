@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/paisit04/building-modern-cli/cmd/cli/command"
-	"github.com/paisit04/building-modern-cli/internal/interfaces"
+	"github.com/paisit04/building-modern-cli/audiofile/cmd/cli/command"
+	"github.com/paisit04/building-modern-cli/audiofile/internal/interfaces"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	metadataService "github.com/paisit04/building-modern-cli/services/metadata"
+	metadataService "github.com/paisit04/building-modern-cli/audiofile/services/metadata"
 )
 
 func main() {

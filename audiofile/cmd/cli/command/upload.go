@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/paisit04/building-modern-cli/internal/interfaces"
+	"github.com/paisit04/building-modern-cli/audiofile/internal/interfaces"
 )
 
 func NewUploadCommand(client interfaces.Client) *UploadCommand {

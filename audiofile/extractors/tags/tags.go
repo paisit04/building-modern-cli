@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/paisit04/building-modern-cli/models"
+	"github.com/paisit04/building-modern-cli/audiofile/models"
 
 	"github.com/dhowden/tag"
 )

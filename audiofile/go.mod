@@ -1,4 +1,4 @@
-module github.com/paisit04/building-modern-cli
+module github.com/paisit04/building-modern-cli/audiofile
 
 go 1.22.2
 

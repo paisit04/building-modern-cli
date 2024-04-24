@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/paisit04/building-modern-cli/models"
+	"github.com/paisit04/building-modern-cli/audiofile/models"
 )
 
 func Extract(m *models.Audio) error {

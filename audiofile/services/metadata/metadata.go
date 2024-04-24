@@ -1,8 +1,8 @@
 package metadata
 
 import (
-	"github.com/paisit04/building-modern-cli/internal/interfaces"
-	"github.com/paisit04/building-modern-cli/storage"
+	"github.com/paisit04/building-modern-cli/audiofile/internal/interfaces"
+	"github.com/paisit04/building-modern-cli/audiofile/storage"
 
 	"fmt"
 	"net/http"

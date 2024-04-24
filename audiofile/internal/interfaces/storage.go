@@ -1,7 +1,7 @@
 package interfaces
 
 import (
-	"github.com/paisit04/building-modern-cli/models"
+	"github.com/paisit04/building-modern-cli/audiofile/models"
 )
 
 type Storage interface {

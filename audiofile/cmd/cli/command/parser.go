@@ -3,7 +3,7 @@ package command
 import (
 	"fmt"
 
-	"github.com/paisit04/building-modern-cli/internal/interfaces"
+	"github.com/paisit04/building-modern-cli/audiofile/internal/interfaces"
 )
 
 type Parser struct {
